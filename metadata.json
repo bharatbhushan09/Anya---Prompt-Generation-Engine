@@ -1,0 +1,6 @@
+{
+  "name": "PromptVision - AI Image Prompt Generator",
+  "description": "Upload images to extract detailed AI prompts, artistic styles, camera settings, lighting, and negative prompts with real-time test preview and bulk exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
